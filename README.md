@@ -1,60 +1,44 @@
 # Proyecto-1-Web
 
-One Paragraph of project description goes here
+Proyecto 1 de Sistemas y Tecnologías Web en el que se copia la página https://ka.guya.moe utilizando ReactJS
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Prerrequisitos
 
-What things you need to install the software and how to install them
+React
+Babel
+Webpack
+esLint
 
 ```
 Give examples
 ```
 
-### Installing
+### Instalar y correr
 
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
 
 ```
-Give the example
+npm install
 ```
 
-And repeat
 
 ```
-until finished
+npm start
 ```
 
-End with an example of getting some data out of the system or using it for a little demo
 
-## Running the tests
+## Correr prueba de errores de ESlint
 
 Explain how to run the automated tests for this system
 
-### Break down into end to end tests
-
-Explain what these tests test and why
-
 ```
-Give an example
+npx eslint --fix  src/*js
 ```
 
-### And coding style tests
 
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
 
 ## Built With
 
